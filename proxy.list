@@ -5,3 +5,8 @@ DOMAIN-SUFFIX,iyf.tv
 # 域名关键字匹配
 DOMAIN-KEYWORD,yfsp
 DOMAIN-KEYWORD,iyf
+#
+IP-CIDR,104.18.33.60/32,no-resolve
+IP-CIDR,172.64.154.196/32,no-resolve
+IP-CIDR,2606:4700:4400::6812:213c/128,no-resolve
+IP-CIDR,2606:4700:4400::ac40:9ac4/128,no-resolve
