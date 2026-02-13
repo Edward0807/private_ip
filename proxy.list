@@ -18,5 +18,8 @@ IP-CIDR,2606:4700:440a::ac40:9a45/128,no-resolve
 IP-CIDR,2606:4700:4400::6812:21bb/128,no-resolve
 
 #
+DOMAIN-SUFFIX,+.googleapis.cn
+DOMAIN-SUFFIX,+.xn–ngstr-lra8j.com
+DOMAIN-SUFFIX,+.xn–ngstr-cn-8za9o.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
